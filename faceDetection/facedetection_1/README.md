@@ -1,5 +1,6 @@
 # facedetection_1
 
+Task 2 Completed
 A flutter app which detect faces fromt he images using firebase ML kit
 
 ## Getting Started
