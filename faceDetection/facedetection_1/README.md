@@ -1,6 +1,6 @@
 # facedetection_1
 
-A new Flutter project.
+A flutter app which detect faces fromt he images using firebase ML kit
 
 ## Getting Started
 
